@@ -6,7 +6,7 @@ a smaller docker version of 2048
 
 Base on gabrielecirulli/2048(https://github.com/gabrielecirulli/2048)
 
-Base on alpine guiguiche
+Base on alpine guiguiche3
 
 Base on nginx
 
